@@ -1,0 +1,14 @@
+.timer {
+  display: flex;
+  justify-content: center;
+
+  font-size: 40px;
+}
+
+.field {
+  padding: 10px;
+}
+
+.field:nth-child(2n) {
+  background-color: #b8e6ee;
+}
